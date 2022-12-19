@@ -1,0 +1,63 @@
+main {
+
+  width: 100vw;
+  height: auto;
+}
+
+.sobre {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 440px;
+  justify-content: space-evenly;
+  background-image: linear-gradient(to top, black 95%, #2E2E2E);
+
+
+}
+
+.sobre:hover {
+
+  background-image: linear-gradient(to top, rgb(145, 1, 145) 95%, #2E2E2E);
+  transition: 0.1s;
+  opacity: 100%;
+
+
+}
+
+
+
+.sobre_mim-container {
+
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  font-size: 14px;
+  color: white;
+
+
+
+
+
+
+}
+
+.sobre_titulo {
+
+  text-shadow: 2px 2px rgb(145, 1, 145);
+}
+
+.sobre_texto {
+  text-align: start;
+  font-size: 16px;
+  opacity: 0.5;
+}
+
+
+
+.sobre_imagem {
+
+  border-radius: 50%;
+  max-height: 370px;
+  max-width: 50%;
+  background-color: black
+}

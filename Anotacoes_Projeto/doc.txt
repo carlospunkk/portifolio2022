@@ -1,0 +1,27 @@
+02-12-2022
+
+1.Apresentação
+ mudar -Background - não alterado.
+
+2- Botão Apresentação 
+mudar cor ao passar mouse e tamanho.
+
+lista de efeitos para botao sites
+http://css3button.net/
+http://css-button-generator.com/
+http://www.cssbuttongenerator.com/
+http://css-tricks.com/examples/ButtonMaker/
+http://www.bestcssbuttongenerator.com/
+http://css3buttongenerator.com/
+http://www.cssportal.com/css3-button-generator/
+http://www.cssdrive.com/css3button/
+http://dryicons.com/demos/css3-linear-gradient-buttons-generator/
+http://www.sciweavers.org/i2style
+
+3- projeto
+div
+nome projeto
+foto projeto ou print
+botao-demo ver-repositorio
+
+descrição projeto Alura 
