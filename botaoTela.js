@@ -11,7 +11,7 @@ function mostratela() {
   apresentacao.textContent = "";
 
   const telaVideo = document.createElement("video")
-  telaVideo.src = '/video/video-apresentacao.mp4'
+  telaVideo.src = 'video/video-apresentacao.mp4'
   telaVideo.controls = true;
   telaVideo.height = 520;
   telaVideo.width = 650;
